@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33710
     wikipedia: http://en.wikipedia.org/wiki/Eando_Binder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29133#Shipwreck-in-the-Sky
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-06-15'
 gutenberg_type: Text
